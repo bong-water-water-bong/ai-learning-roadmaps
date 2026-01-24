@@ -143,7 +143,7 @@ If this is your first contribution, please refer to:
    ```bash
    git push origin add-resource-name
    ```
-7. Open a Pull Request
+7. Open a [Pull Request](https://github.com/bishwaghimire/ai-learning-roadmaps/pulls)
 
 ---
 
