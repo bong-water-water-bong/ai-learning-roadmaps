@@ -10,9 +10,11 @@ By the end, you should be able to **formulate research questions, design experim
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
+- [How to Read Research Papers](#how-to-read-research-papers)
 
 - [Beginner Level — Research Foundations](#beginner-level--research-foundations)
   - [Core Concepts](#core-concepts)
+
 
 - [Intermediate Level — Core Research Skills](#intermediate-level--core-research-skills)
   - [Core Concepts](#core-concepts-1)
@@ -62,16 +64,43 @@ Before starting this roadmap, you should already have:
 
 ---
 
+## How to Read Research Papers
+
+| S.No | Title | Type | Research Skill Focus | Link |
+|---:|-------|------|---------------------|------|
+| 1 | S. Keshav – *How to Read a Paper* (The 3-Pass Method) | PDF | Paper Filtering, Critical Reading | [Link](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) |
+| 2 | Jason Eisner – *How to Read a Technical Paper* | Article | Critical Reading, Experimental Evaluation | [Link](http://cs.jhu.edu/~jason/advice/how-to-read-a-paper.html) |
+| 3 | MIT OCW – *How to Read a Scientific Paper* | PDF | Experimental Rigor, Research Methodology | [Link](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-reading-and-writing-science-fall-2012/readings/MITMAS_S62_reading_science.pdf) |
+| 4 | Yannic Kilcher – *How to Read ML Papers (arXiv & Reviewer Perspective)* | Video | Reviewer Mindset, arXiv Navigation | [Link](https://www.youtube.com/watch?v=733m6qBH-jI) |
+| 5 | Andrej Karpathy – *A Recipe for Training Neural Networks* | Blog | Practical Insight, Implicit Assumptions | [Link](https://karpathy.github.io/2019/04/25/recipe/) |
+| 6 | NeurIPS Reviewer Guidelines (Generic) | Article | Reviewer Mindset, Paper Evaluation | [Link](https://neurips.cc/Conferences/2025/Reviewing) |
+| 7 | *A Guide to Empirical Machine Learning Research* | PDF | Experimental Rigor, Evaluation Best Practices | [Link](https://arxiv.org/abs/2205.07038) |
+
+
+**Research Skill Focus Legend**
+- **Paper Filtering** — Quickly determine if a paper is relevant
+- **Critical Reading** — Understand, question, and synthesize ideas
+- **Experimental Rigor** — Evaluate baselines, ablations, and metrics
+- **Reviewer Mindset** — Assess novelty, clarity, and contribution
+- **Practical Insight** — Recognize implicit assumptions and heuristics
+- **Evaluation Best Practices** — Learn reproducible, empirical research standards
+
+> Papers are not textbooks.  
+> They are compressed arguments with missing details, assumptions, and trade-offs.
+
+
+---
+
 ## Beginner Level — Research Foundations
 
 Learn **how research works**, not just how models work.
 
 ### Core Concepts
 - [Scientific Method](https://www.nature.com/articles/d41586-019-03025-1)
-- [How to Read Research Papers](https://arxiv.org/abs/1804.02497)
 - [Experimental Design](https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
 - [Reproducibility & Ethics](https://www.nature.com/articles/d41586-020-02462-7)
 - [LaTeX & Academic Writing](https://www.overleaf.com/learn)
+
 
 ---
 
@@ -87,11 +116,14 @@ Learn **how research works**, not just how models work.
 Develop **technical depth** and start producing **original ideas**.
 
 ### Core Concepts
-- [Optimization Theory](https://web.stanford.edu/class/ee364a/)
-- [Statistical Learning Theory](https://www.di.ens.fr/~fbach/learning_theory.pdf)
-- [Representation Learning](https://arxiv.org/abs/1206.5538)
-- [Ablation Studies](https://arxiv.org/abs/2203.01017)
-- [Paper Writing & Peer Review](https://icml.cc/Conferences/2023/AuthorInstructions)
+
+| Topic                           | Resource                                                                             |
+| ------------------------------- | ------------------------------------------------------------------------------------ |
+| **Optimization Theory**         | [Stanford EE364A](https://web.stanford.edu/class/ee364a/)                            |
+| **Statistical Learning Theory** | [Learning Theory PDF (ENS)](https://www.di.ens.fr/~fbach/learning_theory.pdf)        |
+| **Representation Learning**     | [Representation Learning (arXiv)](https://arxiv.org/abs/1206.5538)                   |
+| **Ablation Studies**            | [Ablation Studies Paper (arXiv)](https://arxiv.org/abs/2203.01017)                   |
+| **Author & Peer Review**        | [ICML 2026 Author Instructions](https://icml.cc/Conferences/2026/AuthorInstructions) |
 
 ---
 
@@ -126,10 +158,10 @@ Operate at the **frontiers of knowledge**.
 
 ### Core Concepts
 - [Research Problem Formulation](https://www.cs.cmu.edu/~harchol/teaching/10701/)
-- [Scaling Laws](https://arxiv.org/abs/2001.08361)
+- [Scaling Laws](https://arxiv.org/abs/2212.07143)
 - [Causal Representation Learning](https://arxiv.org/abs/2102.11107)
-- [Interpretability & Alignment](https://distill.pub/)
-- [AI Safety & Long-Term Risk](https://www.safe.ai/)
+- [Interpretability & Alignment](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
+- [AI Safety & Long-Term Risk](https://en.wikipedia.org/wiki/AI_safety)
 
 ---
 
@@ -211,3 +243,4 @@ By completing this roadmap, you will be able to:
 > **Most people train models.  
 > Researchers create knowledge.**  
 > Depth beats speed. Patience beats hype.
+
