@@ -1,4 +1,4 @@
-<h1 align="center">📚 AI / ML / DL Books & Resources Hub</h1>
+<h1 align="center">📚 AI / ML / DL Learning Resources Hub</h1>
 
 <p align="center"> <i>A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.</i> </p>
 
@@ -458,6 +458,7 @@ This repository is licensed under the [`MIT License`](LICENSE).
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
