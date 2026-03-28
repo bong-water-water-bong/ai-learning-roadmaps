@@ -169,7 +169,7 @@ The resources are organized by **subject**, **difficulty level**, and **resource
 
 | S.N | Area | AI/ML-Relevant Focus | Best Resource | Type | Level |
 |----|------|----------------------|--------------|------|-------|
-| 1 | Linear Algebra | Vectors, matrices, geometric intuition | [Essence of Linear Algebra – 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | YouTube Playlist | Beginner |
+| 1 | Linear Algebra | Vectors, matrices, geometric intuition | [Essence of Linear Algebra – 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | YouTube Playlist | Beginner |
 | 2 | Linear Algebra | Matrix operations for ML models | [MIT OCW – Linear Algebra (18.06)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | University Course | Beginner |
 | 3 | Linear Algebra | Eigenvalues, SVD, PCA | [Linear Algebra and Its Applications – Gilbert Strang](https://www.amazon.com/dp/0030105676) | Book | Intermediate |
 | 4 | Linear Algebra | Matrix factorization, embeddings | [Advanced Linear Algebra – Steven Roman](https://www.amazon.com/dp/0387728287) | Book | Advanced |
